@@ -2,7 +2,7 @@
 import { connect } from "cloudflare:sockets";
  
 let Pswd = "trojan";
-const proxyIPs = ["\u0074\u0073\u002e\u0068\u0070\u0063\u002e\u0074\u0077"]; 
+const proxyIPs = ["101.32.247.126"]; 
 let cn_hostnames = [''];
 let CDNIP = '\u0077\u0077\u0077\u002e\u0076\u0069\u0073\u0061\u002e\u0063\u006f\u006d\u002e\u0073\u0067'
 // http_ip
